@@ -8,6 +8,7 @@ Nosso desafio consiste em o usuário criar um registro de atividades por data co
 - [ ] Listar atividades
 - [ ] Ordenar as atividades por data de criação
 - [ ] Filtrar as atividades por status: ["CONCLUIDA", "PENDENTE", "CANCELADA"]
+- [ ] Subir no github, ou bitbucket e afins...
 
 ## Extras
 - [ ] design
@@ -15,8 +16,4 @@ Nosso desafio consiste em o usuário criar um registro de atividades por data co
 - [ ] autenticação
 - [ ] API própria
 
-[storybook]: https://github.com/storybooks/storybook
-[jest]: https://jest-everywhere.now.sh
-[our boilerplate]: https://github.com/entria/entria-fullstack
-[Github]: https://developer.github.com/v4/
-[Yelp]: https://www.yelp.com/developers/platform
+Encaminhar projeto concluido para: hello@vix.dev
