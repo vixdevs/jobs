@@ -1,6 +1,8 @@
 # FullStack Challenge
 Nosso desafio consiste em o usuário criar um registro de atividades por data contendo o status de cada atividade. Cada atividade possuirá a data em que foi criada, ordenando por ordem de criação ou pela ordem do filtro por status.
 
+Toda a aplicação poderá ser construinda utilizando um json ou uma array... ou como extra criando uma API em NodeJS e MongoDB.
+
 ## Criar uma aplicação NextJS
 - [ ] Rodar na web
 - [ ] Utilizar Typescript
@@ -17,4 +19,4 @@ Nosso desafio consiste em o usuário criar um registro de atividades por data co
 - [ ] autenticação
 - [ ] API própria
 
-Encaminhar projeto concluido para: hello@vix.dev
+Encaminhar projeto concluido com assunto: "Challenge" para: hello@vix.dev
