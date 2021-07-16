@@ -1,5 +1,5 @@
 # FullStack Challenge
-Nosso desafio consiste em o usuário criar um registro de atividades por data contendo o status de cada atividade. Cada atividade possuirá a data em que foi criada, assim possuindo um filtro na listagem para selecionar por ordem crescente ou decrescente
+Nosso desafio consiste em o usuário criar um registro de atividades por data contendo o status de cada atividade. Cada atividade possuirá a data em que foi criada, ordenando por ordem de criação ou pela ordem do filtro por status.
 
 ## Criar uma aplicação NextJS
 - [ ] Rodar na web
@@ -12,7 +12,8 @@ Nosso desafio consiste em o usuário criar um registro de atividades por data co
 
 ## Extras
 - [ ] design
-- [ ] hospedar na vercel
+- [ ] responsividade
+- [ ] deploy
 - [ ] autenticação
 - [ ] API própria
 
