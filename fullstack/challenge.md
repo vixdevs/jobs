@@ -6,7 +6,8 @@ Toda a aplicação poderá ser construinda utilizando um json ou uma array... ou
 ## Criar uma aplicação NextJS
 - [ ] Rodar na web
 - [ ] Utilizar Typescript
-- [ ] Possibilidade de criar registro de atividade com nome, data e descrição
+- [ ] Possibilidade de criar registro de atividade com nome e descrição
+- [ ] Possibilidade de alterar o status da atividade
 - [ ] Listar atividades
 - [ ] Ordenar as atividades por data de criação
 - [ ] Filtrar as atividades por status: ["CONCLUIDA", "PENDENTE", "CANCELADA"]
