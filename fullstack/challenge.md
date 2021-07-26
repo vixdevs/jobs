@@ -8,7 +8,7 @@ Toda a aplicação poderá ser construinda utilizando um json ou uma array... ou
 - [ ] Utilizar Typescript
 - [ ] Possibilidade de criar registro de atividade com nome e descrição
 - [ ] Possibilidade de alterar o status da atividade
-- [ ] Listar atividades
+- [ ] Listar atividades mostrando nome, data de criação, descrição e status
 - [ ] Ordenar as atividades por data de criação
 - [ ] Filtrar as atividades por status: ["CONCLUIDA", "PENDENTE", "CANCELADA"]
 - [ ] Subir no github, ou bitbucket e afins...
